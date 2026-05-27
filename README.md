@@ -17,14 +17,23 @@ The system is built using a large-scale global weather dataset containing over 1
 🚀 Features
 
 ✅ Climate Zone Classification using K-Means Clustering
+
 ✅ Interactive Streamlit Dashboard
+
 ✅ Real-Time Climate Prediction
+
 ✅ Global Climate Database Search
+
 ✅ Pydeck World Map Visualization
+
 ✅ Radar Chart Climate Comparison
+
 ✅ Climate Analytics Dashboard
+
 ✅ Dark Theme Glassmorphism UI
+
 ✅ Model Persistence using Pickle Files
+
 ✅ Silhouette Score Evaluation
 
 🧠 Machine Learning Workflow
@@ -100,10 +109,12 @@ Silhouette Score: 0.56
 User input climate parameters
 Real-time climate prediction
 Interactive radar chart comparison
+
 🔹 Global Database Explorer
 Country & city filtering
 Climate search system
 Interactive Pydeck map visualization
+
 🔹 Model Analytics Dashboard
 Scatter plot visualizations
 Cluster analysis

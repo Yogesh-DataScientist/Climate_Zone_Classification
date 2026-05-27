@@ -124,7 +124,7 @@ Climate-Zone-Classification/
 ▶️ Installation & Execution
 
 Clone Repository
-git clone https://github.com/your-username/climate-zone-classification.git
+git clone (https://github.com/Yogesh-DataScientist/Climate_Zone_Classification)
 Install Dependencies
 pip install -r requirements.txt
 Run Streamlit App

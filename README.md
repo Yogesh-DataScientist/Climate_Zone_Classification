@@ -45,12 +45,15 @@ Climate Zone Classification
 Cluster Evaluation
         ↓
 Streamlit Deployment
+
 📂 Dataset Information
 Dataset Size: 143,847 Rows
 Total Columns: 41
 Source: Global Weather Repository Dataset
+
 Selected Features
 Feature	Description
+
 temperature_celsius	Temperature
 humidity	Humidity Level
 wind_kph	Wind Speed
@@ -63,7 +66,9 @@ air_quality_PM2.5	PM2.5 Pollution
 air_quality_PM10	PM10 Pollution
 latitude	Geographical Coordinate
 longitude	Geographical Coordinate
+
 ⚙️ Technologies Used
+
 Technology	Purpose
 Python	Core Programming
 Streamlit	Web Application
@@ -74,7 +79,9 @@ Matplotlib	Visualization
 Seaborn	Statistical Graphs
 Plotly	Interactive Charts
 Pydeck	Geospatial Mapping
+
 📊 Model Details
+
 Algorithm Used
 K-Means Clustering
 Optimal Clusters
@@ -86,7 +93,9 @@ Cluster	Climate Zone
 2	Tropical
 Evaluation Metric
 Silhouette Score: 0.56
+
 💻 Streamlit Application Modules
+
 🔹 Predict Climate Zone
 User input climate parameters
 Real-time climate prediction
@@ -99,7 +108,9 @@ Interactive Pydeck map visualization
 Scatter plot visualizations
 Cluster analysis
 Climate distribution charts
+
 📁 Project Structure
+
 Climate-Zone-Classification/
 │
 ├── app.py
@@ -109,13 +120,16 @@ Climate-Zone-Classification/
 ├── requirements.txt
 ├── README.md
 └── images/
+
 ▶️ Installation & Execution
+
 Clone Repository
 git clone https://github.com/your-username/climate-zone-classification.git
 Install Dependencies
 pip install -r requirements.txt
 Run Streamlit App
 streamlit run app.py
+
 📈 Visualizations Included
 Climate Distribution Charts
 Scatter Plots
@@ -123,6 +137,7 @@ Correlation Heatmaps
 Radar Charts
 Interactive World Map
 Cluster Analytics
+
 🔮 Future Enhancements
 Real-time Weather API Integration
 Satellite Data Analysis
@@ -130,6 +145,7 @@ Deep Learning-based Climate Prediction
 GIS Integration
 Real-time Monitoring Dashboard
 Mobile Responsive Deployment
+
 📚 Applications
 Environmental Monitoring
 Agriculture Planning
@@ -137,8 +153,8 @@ Climate Research
 Disaster Management
 Smart City Planning
 Weather Pattern Analysis
-👨‍💻 Author
 
+👨‍💻 Author
 Yogeshwaran S
 
 ⭐ Conclusion
